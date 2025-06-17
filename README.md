@@ -1,4 +1,6 @@
 # apnacollege-demo
 make repository for github
 <br>
-Author-Nikhil Chaudhary
+Author-Nikhil Chaudhary(Computer Science )
+
+
